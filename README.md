@@ -1,11 +1,11 @@
-# 📊 Product Funnel & Conversion Analysis using SQL
+# Product Funnel & Conversion Analysis using SQL
 
 ## 📌 Objective
 To analyze user behavior across a product funnel and identify drop-off points impacting conversion rate.
 
 ---
 
-## 📂 Dataset
+## Dataset
 This project uses a simulated dataset of user events:
 - visit
 - add_to_cart
@@ -13,7 +13,7 @@ This project uses a simulated dataset of user events:
 
 ---
 
-## 🧠 Key Analysis
+## Key Analysis
 
 ### 1. Funnel Stage Analysis
 Calculated number of users at each stage of the funnel.
@@ -31,20 +31,20 @@ Analyzed conversion rates between:
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - SQL
 - CSV dataset
 
 ---
 
-## 📈 Insights
+## Insights
 - Significant drop observed between add_to_cart and purchase stage  
 - Indicates potential issues in checkout flow or payment experience  
 - Suggests need for improving checkout UX and reducing friction  
 
 ---
 
-## 🚀 Outcome
+## Outcome
 This analysis demonstrates how SQL can be used to:
 - Understand user behavior  
 - Identify bottlenecks in product funnels  
